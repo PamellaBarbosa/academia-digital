@@ -1,5 +1,5 @@
 # academia-digital
--> Projeto da dio do Bootcamp Spring Experience.
+-> Projeto da dio do bootcamp spring experience.
 
 # tecnologias-utilizadas
 -> Maven, Java 17, Postman, Lombok, Spring Web, Spring Data JPA, PostgreSQL drive e Hibernate validator.
